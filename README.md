@@ -1,5 +1,5 @@
 <h1> <p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk0bWloMjU4ZGltcmJxNzBhdzdqYmJ6YmVtYW1qZWYzcHViYmx1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python GIF" width="30px">  Repositorio de estudos em Python
+  <img src="https://banner2.cleanpng.com/20180706/vef/aaxxo5yil.webp" alt="Python GIF" width="30px">  Repositorio de estudos em Python
 </p>
 <h1/>
 
