@@ -1,4 +1,7 @@
-<h1 align="center">🐍 Repositório de Estudos em Python</h1>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Python GIF" width="400px"> Repositorio de estudos em python
+</p>
+
 
 <p align="center">
   Do básico ao avançado, um passo de cada vez 💡🚀
