@@ -1,5 +1,5 @@
 <h1> <p align="center"> 
-  <img src="https://tse4.mm.bing.net/th?id=OIP.fyuuf1u74xNdYAzdTFI9LwHaHa&w=474&h=474&c=7" alt="Python GIF" width="30px">  Repositorio de estudos em Python
+  <img src="https://media.discordapp.net/attachments/806053806453555238/1360013540315894051/raw.png?ex=67f992cf&is=67f8414f&hm=270288ca7b5160cb9168e0232d20943d64dc54883c37be5cb1017b759460ee00&=&format=webp&quality=lossless&width=525&height=525" alt="Python GIF" width="30px">  Repositorio de estudos em Python
 </p>
 <h1/>
 
