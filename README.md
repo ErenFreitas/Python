@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Python GIF" width="400px"> Repositorio de estudos em python
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Python GIF" width="30px"> Repositorio de estudos em python
 </p>
 
 
