@@ -1,0 +1,10 @@
+{
+"discord.showWorkspace": true,
+"discord.showFilename": true,
+"discord.showTime": true,
+"discord.largeImage": "vscode",
+"discord.detailsEditing": "Editando",
+"discord.lowerDetailsIdling": "Parado no VS Code",
+"discord.lowerDetailsDebugging": "Depurando...",
+"discord.workspaceExcludeFolders": ["node_modules", ".git"]
+}
