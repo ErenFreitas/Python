@@ -1,24 +1,24 @@
-# Ask for the user's name and age
-name = input('What is your name? ').capitalize().strip()
-age = input('What is your age? ')
+# Pergunte o nome e a idade do usuário
+nome = input('Qual é o seu nome? ').capitalize().strip()
+idade = input('Qual é a sua idade? ')
 
-# Check if both name and age are filled in
-if name and age:
-    print(f'Your name is {name}')
-    print('Your name reversed is:', name[::-1])
+# Verifique se tanto o nome quanto a idade foram preenchidos
+if nome and idade:
+    print(f'Seu nome é {nome}')
+    print('Seu nome invertido é:', nome[::-1])
     
-    # Check if the name contains spaces
-    if " " in name:
-        print('Your name contains spaces')
+    # Verifique se o nome contém espaços
+    if " " in nome:
+        print('Seu nome contém espaços')
     else: 
-        print('Your name does not contain spaces')
+        print('Seu nome não contém espaços')
     
-    # Count the number of characters in the name
-    name_length = len(name)
-    print(f'Your name has {name_length} characters!')
+    # Conte o número de caracteres no nome
+    tamanho_nome = len(nome)
+    print(f'Seu nome tem {tamanho_nome} caracteres!')
     
-    # Display the first and last letter of the name
-    print('The first letter of your name is:', name[0])
-    print('The last letter of your name is:', name[-1])
+    # Exiba a primeira e a última letra do nome
+    print('A primeira letra do seu nome é:', nome[0])
+    print('A última letra do seu nome é:', nome[-1])
 else:
-    print("Sorry, you left some fields empty.")
+    print("Desculpe, você deixou alguns campos vazios.")
